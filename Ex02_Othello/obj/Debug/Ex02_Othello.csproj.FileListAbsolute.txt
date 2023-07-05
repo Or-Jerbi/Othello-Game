@@ -1,0 +1,8 @@
+C:\Users\Or Jerbi\Downloads\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\bin\Debug\Ex02_Othello.exe.config
+C:\Users\Or Jerbi\Downloads\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\bin\Debug\Ex02_Othello.exe
+C:\Users\Or Jerbi\Downloads\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\bin\Debug\Ex02_Othello.pdb
+C:\Users\Or Jerbi\Downloads\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\obj\Debug\Ex02_Othello.csproj.AssemblyReference.cache
+C:\Users\Or Jerbi\Downloads\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\obj\Debug\Ex02_Othello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Or Jerbi\Downloads\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\obj\Debug\Ex02_Othello.csproj.CoreCompileInputs.cache
+C:\Users\Or Jerbi\Downloads\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\obj\Debug\Ex02_Othello.exe
+C:\Users\Or Jerbi\Downloads\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\obj\Debug\Ex02_Othello.pdb

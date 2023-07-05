@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "Ex02_Othello/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Ex02_Othello.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ex02_Othello.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex02_Othello/1.0.0": {
+      "type": "project",
+      "path": "../Ex02_Othello/Ex02_Othello.csproj",
+      "msbuildProject": "../Ex02_Othello/Ex02_Othello.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "Ex02_Othello >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Or Jerbi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Or Jerbi\\Downloads\\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\\Ex05.UI\\Ex05.UI.csproj",
+      "projectName": "Ex05.UI",
+      "projectPath": "C:\\Users\\Or Jerbi\\Downloads\\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\\Ex05.UI\\Ex05.UI.csproj",
+      "packagesPath": "C:\\Users\\Or Jerbi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Or Jerbi\\Downloads\\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\\Ex05.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Or Jerbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Or Jerbi\\Downloads\\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\\Ex02_Othello\\Ex02_Othello.csproj": {
+              "projectPath": "C:\\Users\\Or Jerbi\\Downloads\\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\\Ex02_Othello\\Ex02_Othello.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
